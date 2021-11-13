@@ -5,9 +5,7 @@
 I'm a Software Engineer who love building cloud-based backend services that scale & discussing new products.
 
 
-###  📫 Reach out to me at:
-
-<a href="https://twitter.com/__stevejunior">
+### Reach out to me on <a href="https://twitter.com/__stevejunior">
   <img align="left" alt="Steve's Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
 </a><a href="https://www.linkedin.com/in/stephen-ibeh/">
   <img align="left" alt="Steve's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
