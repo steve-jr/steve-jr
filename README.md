@@ -1,6 +1,4 @@
-<img src="./banner.png" alt="" srcset="">
-
-## Hey, I'm [Steve Junior](https://www.linkedin.com/in/stephen-ibeh) <img src="./flag-of-ghana.svg" width="70px" align="center"> <a align="left"> <img src="https://komarev.com/ghpvc/?username=Steve-Junior&label=Views&color=blue&style=plastic" alt="Steve Junior" /> </a>
+## Hey, I'm [Steve Junior](https://www.linkedin.com/in/stephen-ibeh) <img src="https://github.com/kojoYeboah53i/kojoyeboah53i/blob/main/flag-of-ghana.svg" width="70px" align="center"> <a align="left"> <img src="https://komarev.com/ghpvc/?username=Steve-Junior&label=Views&color=blue&style=plastic" alt="Steve Junior" /> </a>
 
 <br/>
  
