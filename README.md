@@ -40,6 +40,6 @@ I'm a Software Engineer who love building cloud-based backend services that scal
 </a> 
 <br/>
 
-- 🌱 I’m currently learning with Ruby on Rails
+- 🌱 I’m currently explore WebRTC
 - 👯 I’m looking to collaborate on Backend Projects
 - 🤔 I’m looking for help with my open source projects
