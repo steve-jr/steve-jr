@@ -40,6 +40,6 @@ I'm a Software Engineer who love building cloud-based backend services that scal
 </a> 
 <br/>
 
-- 🌱 I’m currently exploring WebRTC
+- 🌱 I’m currently exploring Microsoft Orleans & gRPC
 - 👯 I’m looking to collaborate on Backend Projects
 - 🤔 I’m looking for help with my open source projects
