@@ -1,6 +1,6 @@
 ## Hey there! Make sure to follow me for some cool stuff coming up soon!
 
-As you guessed right, my name is [Steve](https://stevejunior.com) <img src="https://github.com/kojoYeboah53i/kojoyeboah53i/blob/main/flag-of-ghana.svg" width="70px" align="center"> <a align="left"> <img src="https://komarev.com/ghpvc/?username=Steve-Junior&label=Views&color=blue&style=plastic" alt="Steve Junior" /> </a>
+As you guessed right, my name is [Steve](stevejunior.com) <img src="https://github.com/kojoYeboah53i/kojoyeboah53i/blob/main/flag-of-ghana.svg" width="70px" align="center"> <a align="left"> <img src="https://komarev.com/ghpvc/?username=Steve-Junior&label=Views&color=blue&style=plastic" alt="Steve Junior" /> </a>
 
 <br/>
  
