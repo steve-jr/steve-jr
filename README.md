@@ -6,12 +6,6 @@ As you guessed right, my name is [Steve](https://stevejunior.com) <img src="http
  
 I'm a Software Engineer who love building cloud-based backend services that scale & discussing new products.
 
-
-### Reach out to me on <a href="https://twitter.com/__stevejunior">
-  <img align="left" alt="Steve's Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
-</a><a href="https://www.linkedin.com/in/stephen-ibeh/">
-  <img align="left" alt="Steve's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
-</a>
 <br/>
 
 
@@ -42,6 +36,6 @@ I'm a Software Engineer who love building cloud-based backend services that scal
 </a> 
 <br/>
 
-- 🌱 I’m currently exploring Microsoft Orleans & gRPC
+- 🌱 I explored Microsoft Orleans & gRPC
 - 👯 I’m looking to collaborate on Backend Projects
-- 🤔 I’m looking for help with my open source projects
+- 🤔 I’m scouting to help with my open source projects
