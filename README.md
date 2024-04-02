@@ -16,12 +16,10 @@ I'm a Software Engineer who love building cloud-based backend services that scal
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
@@ -36,6 +34,5 @@ I'm a Software Engineer who love building cloud-based backend services that scal
 </a> 
 <br/>
 
-- 🌱 I explored Microsoft Orleans & gRPC
 - 👯 I’m looking to collaborate on Backend Projects
 - 🤔 I’m scouting to help with my open source projects
