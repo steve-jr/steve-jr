@@ -1,6 +1,4 @@
-## I'm [Steve](http://stevejunior.com) Follow me if you like what you see!
-
-<br/> I love to break things running on the internet especially cloud-based services that scale & write about AI. <br/>
+### Hey I'm [Steve](http://stevejunior.com) and love to break things and write tech/life.
 
 ### Tools
 
