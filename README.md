@@ -1,5 +1,4 @@
-### Hey I'm [Steve](http://stevejunior.com)
-
+### Hi, 👋  I'm Steve
 ### Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="45px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
