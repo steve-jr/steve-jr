@@ -1,4 +1,4 @@
-### Hey I'm [Steve](http://stevejunior.com) and love to break things and write down my thoughts about tech & life.
+### Hey I'm [Steve](http://stevejunior.com)
 
 ### Tools
 
